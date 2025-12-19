@@ -1,6 +1,6 @@
 using System;
 class Operators{
-	static void Main(){
+	static void Main(String[] args){
 		int a = int.Parse(Console.ReadLine());
 		int b = int.Parse(Console.ReadLine());
 		// Arithmatic operator
@@ -28,6 +28,5 @@ class Operators{
 		// Type Casting
 		float c = (float) a;
 		Console.WriteLine("int to float: "+ c);
-		
 	}
 }
