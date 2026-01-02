@@ -29,7 +29,7 @@ class BookLibrary
             "Peter Thiel",
             "Cal Newport"
         };
-    static bool[] status = new bool[10];
+    private static bool[] status = new bool[10];
     public void Display()
     {
         for (int i = 0; i < status.Length; i++)
