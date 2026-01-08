@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\source\\.netprojects\\EmployeeWage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4896212-A568-406B-94A6-56A30AB90A6B}|EmployeeWage\\EmployeeWage.csproj|c:\\users\\asus\\source\\.netprojects\\employeewage\\employeewage\\employeemain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4896212-A568-406B-94A6-56A30AB90A6B}|EmployeeWage\\EmployeeWage.csproj|solutionrelative:employeewage\\employeemain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4896212-A568-406B-94A6-56A30AB90A6B}|EmployeeWage\\EmployeeWage.csproj|c:\\users\\asus\\source\\.netprojects\\employeewage\\employeewage\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4896212-A568-406B-94A6-56A30AB90A6B}|EmployeeWage\\EmployeeWage.csproj|solutionrelative:employeewage\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4896212-A568-406B-94A6-56A30AB90A6B}|EmployeeWage\\EmployeeWage.csproj|c:\\users\\asus\\source\\.netprojects\\employeewage\\employeewage\\employeeutilityimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4896212-A568-406B-94A6-56A30AB90A6B}|EmployeeWage\\EmployeeWage.csproj|solutionrelative:employeewage\\employeeutilityimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4896212-A568-406B-94A6-56A30AB90A6B}|EmployeeWage\\EmployeeWage.csproj|c:\\users\\asus\\source\\.netprojects\\employeewage\\employeewage\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4896212-A568-406B-94A6-56A30AB90A6B}|EmployeeWage\\EmployeeWage.csproj|solutionrelative:employeewage\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4896212-A568-406B-94A6-56A30AB90A6B}|EmployeeWage\\EmployeeWage.csproj|c:\\users\\asus\\source\\.netprojects\\employeewage\\employeewage\\employeemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4896212-A568-406B-94A6-56A30AB90A6B}|EmployeeWage\\EmployeeWage.csproj|solutionrelative:employeewage\\employeemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeUtilityImpl.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\.netprojects\\EmployeeWage\\EmployeeWage\\EmployeeUtilityImpl.cs",
+              "RelativeDocumentMoniker": "EmployeeWage\\EmployeeUtilityImpl.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\.netprojects\\EmployeeWage\\EmployeeWage\\EmployeeUtilityImpl.cs",
+              "RelativeToolTip": "EmployeeWage\\EmployeeUtilityImpl.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAowEsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T09:30:15.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\.netprojects\\EmployeeWage\\EmployeeWage\\IEmployee.cs",
+              "RelativeDocumentMoniker": "EmployeeWage\\IEmployee.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\.netprojects\\EmployeeWage\\EmployeeWage\\IEmployee.cs",
+              "RelativeToolTip": "EmployeeWage\\IEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T09:28:32.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeMenu.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\.netprojects\\EmployeeWage\\EmployeeWage\\EmployeeMenu.cs",
+              "RelativeDocumentMoniker": "EmployeeWage\\EmployeeMenu.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\.netprojects\\EmployeeWage\\EmployeeWage\\EmployeeMenu.cs",
+              "RelativeToolTip": "EmployeeWage\\EmployeeMenu.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T09:27:42.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeMain.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\.netprojects\\EmployeeWage\\EmployeeWage\\EmployeeMain.cs",
+              "RelativeDocumentMoniker": "EmployeeWage\\EmployeeMain.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\.netprojects\\EmployeeWage\\EmployeeWage\\EmployeeMain.cs",
+              "RelativeToolTip": "EmployeeWage\\EmployeeMain.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T09:26:39.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\.netprojects\\EmployeeWage\\EmployeeWage\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeWage\\Employee.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\.netprojects\\EmployeeWage\\EmployeeWage\\Employee.cs",
+              "RelativeToolTip": "EmployeeWage\\Employee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T05:59:00.277Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -3,11 +3,8 @@
     "",
     "\\core-csharp-practice",
     "\\core-csharp-practice\\gcr-codebase",
-    "\\core-csharp-practice\\gcr-codebase\\DSA",
-    "\\core-csharp-practice\\gcr-codebase\\DSA\\LinkList",
-    "\\core-csharp-practice\\gcr-codebase\\Oops",
-    "\\core-csharp-practice\\scenario-based"
+    "\\core-csharp-practice\\scenario-based",
+    "\\core-csharp-practice\\scenario-based\\EmployeeWage"
   ],
-  "SelectedNode": "\\core-csharp-practice\\gcr-codebase\\DSA\\LinkList\\Node.cs",
   "PreviewInSolutionExplorer": false
 }
