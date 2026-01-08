@@ -1,0 +1,14 @@
+C:\Users\asus\source\.netprojects\EmployeeWage\EmployeeWage\bin\Debug\net10.0\EmployeeWage.exe
+C:\Users\asus\source\.netprojects\EmployeeWage\EmployeeWage\bin\Debug\net10.0\EmployeeWage.deps.json
+C:\Users\asus\source\.netprojects\EmployeeWage\EmployeeWage\bin\Debug\net10.0\EmployeeWage.runtimeconfig.json
+C:\Users\asus\source\.netprojects\EmployeeWage\EmployeeWage\bin\Debug\net10.0\EmployeeWage.dll
+C:\Users\asus\source\.netprojects\EmployeeWage\EmployeeWage\bin\Debug\net10.0\EmployeeWage.pdb
+C:\Users\asus\source\.netprojects\EmployeeWage\EmployeeWage\obj\Debug\net10.0\EmployeeWage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\.netprojects\EmployeeWage\EmployeeWage\obj\Debug\net10.0\EmployeeWage.AssemblyInfoInputs.cache
+C:\Users\asus\source\.netprojects\EmployeeWage\EmployeeWage\obj\Debug\net10.0\EmployeeWage.AssemblyInfo.cs
+C:\Users\asus\source\.netprojects\EmployeeWage\EmployeeWage\obj\Debug\net10.0\EmployeeWage.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\.netprojects\EmployeeWage\EmployeeWage\obj\Debug\net10.0\EmployeeWage.dll
+C:\Users\asus\source\.netprojects\EmployeeWage\EmployeeWage\obj\Debug\net10.0\refint\EmployeeWage.dll
+C:\Users\asus\source\.netprojects\EmployeeWage\EmployeeWage\obj\Debug\net10.0\EmployeeWage.pdb
+C:\Users\asus\source\.netprojects\EmployeeWage\EmployeeWage\obj\Debug\net10.0\EmployeeWage.genruntimeconfig.cache
+C:\Users\asus\source\.netprojects\EmployeeWage\EmployeeWage\obj\Debug\net10.0\ref\EmployeeWage.dll

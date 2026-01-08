@@ -6,4 +6,3 @@ class Node
     int data2;
 }
 
-class 
