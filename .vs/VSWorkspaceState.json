@@ -3,8 +3,12 @@
     "",
     "\\core-csharp-practice",
     "\\core-csharp-practice\\gcr-codebase",
+    "\\core-csharp-practice\\gcr-codebase\\DSA",
+    "\\core-csharp-practice\\gcr-codebase\\DSA\\LinkList",
+    "\\core-csharp-practice\\gcr-codebase\\DSA\\StackAndQueue",
     "\\core-csharp-practice\\scenario-based",
     "\\core-csharp-practice\\scenario-based\\EmployeeWage"
   ],
+  "SelectedNode": "\\core-csharp-practice\\scenario-based\\FitTrack.cs",
   "PreviewInSolutionExplorer": false
 }
