@@ -1,0 +1,15 @@
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\scenario-based\TrafficManager\obj\Debug\net10.0\TrafficManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\scenario-based\TrafficManager\obj\Debug\net10.0\TrafficManager.AssemblyInfoInputs.cache
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\scenario-based\TrafficManager\obj\Debug\net10.0\TrafficManager.AssemblyInfo.cs
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\scenario-based\TrafficManager\obj\Debug\net10.0\TrafficManager.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\scenario-based\TrafficManager\obj\Debug\net10.0\TrafficManager.sourcelink.json
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\scenario-based\TrafficManager\bin\Debug\net10.0\TrafficManager.exe
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\scenario-based\TrafficManager\bin\Debug\net10.0\TrafficManager.deps.json
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\scenario-based\TrafficManager\bin\Debug\net10.0\TrafficManager.runtimeconfig.json
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\scenario-based\TrafficManager\bin\Debug\net10.0\TrafficManager.dll
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\scenario-based\TrafficManager\bin\Debug\net10.0\TrafficManager.pdb
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\scenario-based\TrafficManager\obj\Debug\net10.0\TrafficManager.dll
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\scenario-based\TrafficManager\obj\Debug\net10.0\refint\TrafficManager.dll
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\scenario-based\TrafficManager\obj\Debug\net10.0\TrafficManager.pdb
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\scenario-based\TrafficManager\obj\Debug\net10.0\TrafficManager.genruntimeconfig.cache
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\scenario-based\TrafficManager\obj\Debug\net10.0\ref\TrafficManager.dll
