@@ -1,0 +1,15 @@
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\scenario-based\BrowserBuddy\obj\Debug\net10.0\BrowserBuddy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\scenario-based\BrowserBuddy\obj\Debug\net10.0\BrowserBuddy.AssemblyInfoInputs.cache
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\scenario-based\BrowserBuddy\obj\Debug\net10.0\BrowserBuddy.AssemblyInfo.cs
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\scenario-based\BrowserBuddy\obj\Debug\net10.0\BrowserBuddy.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\scenario-based\BrowserBuddy\obj\Debug\net10.0\BrowserBuddy.sourcelink.json
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\scenario-based\BrowserBuddy\bin\Debug\net10.0\BrowserBuddy.exe
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\scenario-based\BrowserBuddy\bin\Debug\net10.0\BrowserBuddy.deps.json
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\scenario-based\BrowserBuddy\bin\Debug\net10.0\BrowserBuddy.runtimeconfig.json
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\scenario-based\BrowserBuddy\bin\Debug\net10.0\BrowserBuddy.dll
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\scenario-based\BrowserBuddy\bin\Debug\net10.0\BrowserBuddy.pdb
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\scenario-based\BrowserBuddy\obj\Debug\net10.0\BrowserBuddy.dll
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\scenario-based\BrowserBuddy\obj\Debug\net10.0\refint\BrowserBuddy.dll
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\scenario-based\BrowserBuddy\obj\Debug\net10.0\BrowserBuddy.pdb
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\scenario-based\BrowserBuddy\obj\Debug\net10.0\BrowserBuddy.genruntimeconfig.cache
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\scenario-based\BrowserBuddy\obj\Debug\net10.0\ref\BrowserBuddy.dll
