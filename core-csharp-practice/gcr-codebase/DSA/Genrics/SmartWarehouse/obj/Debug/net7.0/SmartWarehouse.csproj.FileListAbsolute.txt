@@ -1,0 +1,5 @@
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\gcr-codebase\DSA\Genrics\SmartWarehouse\obj\Debug\net7.0\SmartWarehouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\gcr-codebase\DSA\Genrics\SmartWarehouse\obj\Debug\net7.0\SmartWarehouse.AssemblyInfoInputs.cache
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\gcr-codebase\DSA\Genrics\SmartWarehouse\obj\Debug\net7.0\SmartWarehouse.AssemblyInfo.cs
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\gcr-codebase\DSA\Genrics\SmartWarehouse\obj\Debug\net7.0\SmartWarehouse.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\gcr-codebase\DSA\Genrics\SmartWarehouse\obj\Debug\net7.0\SmartWarehouse.sourcelink.json
