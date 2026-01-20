@@ -1,0 +1,15 @@
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\scenario-based\RadixSort\bin\Debug\net10.0\RadixSort.exe
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\scenario-based\RadixSort\bin\Debug\net10.0\RadixSort.deps.json
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\scenario-based\RadixSort\bin\Debug\net10.0\RadixSort.runtimeconfig.json
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\scenario-based\RadixSort\bin\Debug\net10.0\RadixSort.dll
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\scenario-based\RadixSort\bin\Debug\net10.0\RadixSort.pdb
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\scenario-based\RadixSort\obj\Debug\net10.0\RadixSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\scenario-based\RadixSort\obj\Debug\net10.0\RadixSort.AssemblyInfoInputs.cache
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\scenario-based\RadixSort\obj\Debug\net10.0\RadixSort.AssemblyInfo.cs
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\scenario-based\RadixSort\obj\Debug\net10.0\RadixSort.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\scenario-based\RadixSort\obj\Debug\net10.0\RadixSort.sourcelink.json
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\scenario-based\RadixSort\obj\Debug\net10.0\RadixSort.dll
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\scenario-based\RadixSort\obj\Debug\net10.0\refint\RadixSort.dll
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\scenario-based\RadixSort\obj\Debug\net10.0\RadixSort.pdb
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\scenario-based\RadixSort\obj\Debug\net10.0\RadixSort.genruntimeconfig.cache
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\scenario-based\RadixSort\obj\Debug\net10.0\ref\RadixSort.dll
