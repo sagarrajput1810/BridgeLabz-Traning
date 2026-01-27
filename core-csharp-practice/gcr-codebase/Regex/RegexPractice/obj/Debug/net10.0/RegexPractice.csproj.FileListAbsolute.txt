@@ -1,0 +1,15 @@
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\gcr-codebase\Regex\RegexPractice\bin\Debug\net10.0\RegexPractice.exe
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\gcr-codebase\Regex\RegexPractice\bin\Debug\net10.0\RegexPractice.deps.json
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\gcr-codebase\Regex\RegexPractice\bin\Debug\net10.0\RegexPractice.runtimeconfig.json
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\gcr-codebase\Regex\RegexPractice\bin\Debug\net10.0\RegexPractice.dll
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\gcr-codebase\Regex\RegexPractice\bin\Debug\net10.0\RegexPractice.pdb
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\gcr-codebase\Regex\RegexPractice\obj\Debug\net10.0\RegexPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\gcr-codebase\Regex\RegexPractice\obj\Debug\net10.0\RegexPractice.AssemblyInfoInputs.cache
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\gcr-codebase\Regex\RegexPractice\obj\Debug\net10.0\RegexPractice.AssemblyInfo.cs
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\gcr-codebase\Regex\RegexPractice\obj\Debug\net10.0\RegexPractice.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\gcr-codebase\Regex\RegexPractice\obj\Debug\net10.0\RegexPractice.sourcelink.json
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\gcr-codebase\Regex\RegexPractice\obj\Debug\net10.0\RegexPractice.dll
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\gcr-codebase\Regex\RegexPractice\obj\Debug\net10.0\refint\RegexPractice.dll
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\gcr-codebase\Regex\RegexPractice\obj\Debug\net10.0\RegexPractice.pdb
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\gcr-codebase\Regex\RegexPractice\obj\Debug\net10.0\RegexPractice.genruntimeconfig.cache
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\gcr-codebase\Regex\RegexPractice\obj\Debug\net10.0\ref\RegexPractice.dll

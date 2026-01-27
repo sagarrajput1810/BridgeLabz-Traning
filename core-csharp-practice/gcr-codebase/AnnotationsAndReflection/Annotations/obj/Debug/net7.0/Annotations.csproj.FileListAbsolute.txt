@@ -1,0 +1,15 @@
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\gcr-codebase\AnnotationsAndReflection\Annotations\bin\Debug\net7.0\Annotations.exe
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\gcr-codebase\AnnotationsAndReflection\Annotations\bin\Debug\net7.0\Annotations.deps.json
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\gcr-codebase\AnnotationsAndReflection\Annotations\bin\Debug\net7.0\Annotations.runtimeconfig.json
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\gcr-codebase\AnnotationsAndReflection\Annotations\bin\Debug\net7.0\Annotations.dll
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\gcr-codebase\AnnotationsAndReflection\Annotations\bin\Debug\net7.0\Annotations.pdb
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\gcr-codebase\AnnotationsAndReflection\Annotations\obj\Debug\net7.0\Annotations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\gcr-codebase\AnnotationsAndReflection\Annotations\obj\Debug\net7.0\Annotations.AssemblyInfoInputs.cache
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\gcr-codebase\AnnotationsAndReflection\Annotations\obj\Debug\net7.0\Annotations.AssemblyInfo.cs
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\gcr-codebase\AnnotationsAndReflection\Annotations\obj\Debug\net7.0\Annotations.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\gcr-codebase\AnnotationsAndReflection\Annotations\obj\Debug\net7.0\Annotations.sourcelink.json
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\gcr-codebase\AnnotationsAndReflection\Annotations\obj\Debug\net7.0\Annotations.dll
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\gcr-codebase\AnnotationsAndReflection\Annotations\obj\Debug\net7.0\refint\Annotations.dll
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\gcr-codebase\AnnotationsAndReflection\Annotations\obj\Debug\net7.0\Annotations.pdb
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\gcr-codebase\AnnotationsAndReflection\Annotations\obj\Debug\net7.0\Annotations.genruntimeconfig.cache
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\gcr-codebase\AnnotationsAndReflection\Annotations\obj\Debug\net7.0\ref\Annotations.dll

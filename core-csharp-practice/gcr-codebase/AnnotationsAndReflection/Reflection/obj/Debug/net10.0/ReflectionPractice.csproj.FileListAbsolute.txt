@@ -1,0 +1,15 @@
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\gcr-codebase\AnnotationsAndReflection\Reflection\ReflectionPractice\bin\Debug\net10.0\ReflectionPractice.exe
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\gcr-codebase\AnnotationsAndReflection\Reflection\ReflectionPractice\bin\Debug\net10.0\ReflectionPractice.deps.json
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\gcr-codebase\AnnotationsAndReflection\Reflection\ReflectionPractice\bin\Debug\net10.0\ReflectionPractice.runtimeconfig.json
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\gcr-codebase\AnnotationsAndReflection\Reflection\ReflectionPractice\bin\Debug\net10.0\ReflectionPractice.dll
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\gcr-codebase\AnnotationsAndReflection\Reflection\ReflectionPractice\bin\Debug\net10.0\ReflectionPractice.pdb
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\gcr-codebase\AnnotationsAndReflection\Reflection\ReflectionPractice\obj\Debug\net10.0\ReflectionPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\gcr-codebase\AnnotationsAndReflection\Reflection\ReflectionPractice\obj\Debug\net10.0\ReflectionPractice.AssemblyInfoInputs.cache
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\gcr-codebase\AnnotationsAndReflection\Reflection\ReflectionPractice\obj\Debug\net10.0\ReflectionPractice.AssemblyInfo.cs
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\gcr-codebase\AnnotationsAndReflection\Reflection\ReflectionPractice\obj\Debug\net10.0\ReflectionPractice.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\gcr-codebase\AnnotationsAndReflection\Reflection\ReflectionPractice\obj\Debug\net10.0\ReflectionPractice.sourcelink.json
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\gcr-codebase\AnnotationsAndReflection\Reflection\ReflectionPractice\obj\Debug\net10.0\ReflectionPractice.dll
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\gcr-codebase\AnnotationsAndReflection\Reflection\ReflectionPractice\obj\Debug\net10.0\refint\ReflectionPractice.dll
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\gcr-codebase\AnnotationsAndReflection\Reflection\ReflectionPractice\obj\Debug\net10.0\ReflectionPractice.pdb
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\gcr-codebase\AnnotationsAndReflection\Reflection\ReflectionPractice\obj\Debug\net10.0\ReflectionPractice.genruntimeconfig.cache
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\gcr-codebase\AnnotationsAndReflection\Reflection\ReflectionPractice\obj\Debug\net10.0\ref\ReflectionPractice.dll
