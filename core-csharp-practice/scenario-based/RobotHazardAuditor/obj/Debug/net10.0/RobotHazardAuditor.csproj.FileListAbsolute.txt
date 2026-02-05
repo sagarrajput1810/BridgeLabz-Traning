@@ -1,0 +1,15 @@
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\scenario-based\RobotHazardAuditor\bin\Debug\net10.0\RobotHazardAuditor.exe
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\scenario-based\RobotHazardAuditor\bin\Debug\net10.0\RobotHazardAuditor.deps.json
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\scenario-based\RobotHazardAuditor\bin\Debug\net10.0\RobotHazardAuditor.runtimeconfig.json
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\scenario-based\RobotHazardAuditor\bin\Debug\net10.0\RobotHazardAuditor.dll
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\scenario-based\RobotHazardAuditor\bin\Debug\net10.0\RobotHazardAuditor.pdb
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\scenario-based\RobotHazardAuditor\obj\Debug\net10.0\RobotHazardAuditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\scenario-based\RobotHazardAuditor\obj\Debug\net10.0\RobotHazardAuditor.AssemblyInfoInputs.cache
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\scenario-based\RobotHazardAuditor\obj\Debug\net10.0\RobotHazardAuditor.AssemblyInfo.cs
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\scenario-based\RobotHazardAuditor\obj\Debug\net10.0\RobotHazardAuditor.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\scenario-based\RobotHazardAuditor\obj\Debug\net10.0\RobotHazardAuditor.sourcelink.json
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\scenario-based\RobotHazardAuditor\obj\Debug\net10.0\RobotHazardAuditor.dll
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\scenario-based\RobotHazardAuditor\obj\Debug\net10.0\refint\RobotHazardAuditor.dll
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\scenario-based\RobotHazardAuditor\obj\Debug\net10.0\RobotHazardAuditor.pdb
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\scenario-based\RobotHazardAuditor\obj\Debug\net10.0\RobotHazardAuditor.genruntimeconfig.cache
+C:\Users\asus\Documents\BridgeLabz-Traning\core-csharp-practice\scenario-based\RobotHazardAuditor\obj\Debug\net10.0\ref\RobotHazardAuditor.dll
