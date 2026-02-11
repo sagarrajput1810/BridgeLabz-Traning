@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\v\\dotnet-project\\AddressBookSonarQube\\AddressBookSonarQube.Core\\AddressBookSonarQube.Core.csproj": {}
+    "C:\\Users\\asus\\Documents\\BridgeLabz-Traning\\core-csharp-practice\\scenario-based\\AddressBookSonarQube\\AddressBookSonarQube.Core\\AddressBookSonarQube.Core.csproj": {}
   },
   "projects": {
-    "C:\\v\\dotnet-project\\AddressBookSonarQube\\AddressBookSonarQube.Core\\AddressBookSonarQube.Core.csproj": {
+    "C:\\Users\\asus\\Documents\\BridgeLabz-Traning\\core-csharp-practice\\scenario-based\\AddressBookSonarQube\\AddressBookSonarQube.Core\\AddressBookSonarQube.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\v\\dotnet-project\\AddressBookSonarQube\\AddressBookSonarQube.Core\\AddressBookSonarQube.Core.csproj",
+        "projectUniqueName": "C:\\Users\\asus\\Documents\\BridgeLabz-Traning\\core-csharp-practice\\scenario-based\\AddressBookSonarQube\\AddressBookSonarQube.Core\\AddressBookSonarQube.Core.csproj",
         "projectName": "AddressBookSonarQube.Core",
-        "projectPath": "C:\\v\\dotnet-project\\AddressBookSonarQube\\AddressBookSonarQube.Core\\AddressBookSonarQube.Core.csproj",
-        "packagesPath": "C:\\Users\\pmdhrs\\.nuget\\packages\\",
-        "outputPath": "C:\\v\\dotnet-project\\AddressBookSonarQube\\AddressBookSonarQube.Core\\obj\\",
+        "projectPath": "C:\\Users\\asus\\Documents\\BridgeLabz-Traning\\core-csharp-practice\\scenario-based\\AddressBookSonarQube\\AddressBookSonarQube.Core\\AddressBookSonarQube.Core.csproj",
+        "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\asus\\Documents\\BridgeLabz-Traning\\core-csharp-practice\\scenario-based\\AddressBookSonarQube\\AddressBookSonarQube.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\pmdhrs\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
