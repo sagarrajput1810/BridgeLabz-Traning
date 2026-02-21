@@ -1,0 +1,29 @@
+### Register User
+POST http://localhost:5296/api/Auth/register
+Content-Type: application/json
+
+{
+    "fullName": "Vijay Kumar",
+    "email": "vijaykumar@gmail.com",
+    "password": "VijayKumar_1"
+}
+
+### Get All Users
+GET http://localhost:5296/api/Auth/users
+
+### Get User By Id
+GET http://localhost:5296/api/Auth/users/5f23fbea-8e1c-4e0e-b3c3-19fd6e299796
+
+### Update User
+PUT http://localhost:5296/api/Auth/users/3b751fbc-fd00-4bb9-97a8-05db975c3974
+Content-Type: application/json
+
+{
+  "fullName": "Updated Name",
+  "email": "updated@example.com"
+}
+
+### Delete User
+DELETE http://localhost:5296/api/Auth/users/7815eae3-8583-4181-95ea-088fc175715e
+
+### 
